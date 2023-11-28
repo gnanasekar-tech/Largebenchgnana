@@ -1,1 +1,11 @@
-
+date:28/11/2023
+part name: large bench
+part colour: navy blue
+material using: pp 80% + glassfibre 20%
+problems: warpage
+time taken to print: 12 hours
+temperature: z1-95, z2-150, z3-172, z4-153,z5-124
+melting temperature: 170 to 175
+dryer temperature: 75°c
+total layers: 365
+per layer printing time: 2 min 
